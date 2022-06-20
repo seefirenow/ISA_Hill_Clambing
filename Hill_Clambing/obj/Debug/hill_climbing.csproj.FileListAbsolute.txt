@@ -1,0 +1,10 @@
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\hill_climbing.csprojAssemblyReference.cache
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\GEO.Properties.Resources.resources
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\hill_climbing.csproj.GenerateResource.cache
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\hill_climbing.csproj.CoreCompileInputs.cache
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\GEO.exe
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\GEO.pdb
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\bin\Debug\GEO.exe.config
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\bin\Debug\GEO.exe
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\bin\Debug\GEO.pdb
+C:\Users\julan\OneDrive\Pulpit\GEO\GEO\obj\Debug\hill_climbing.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\kikus\source\repos\GEO\GEO\bin\Release\GEO.exe.config
+C:\Users\kikus\source\repos\GEO\GEO\bin\Release\GEO.exe
+C:\Users\kikus\source\repos\GEO\GEO\bin\Release\GEO.pdb
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.csproj.AssemblyReference.cache
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.Form1.resources
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.Properties.Resources.resources
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.csproj.GenerateResource.cache
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.csproj.CoreCompileInputs.cache
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.exe
+C:\Users\kikus\source\repos\GEO\GEO\obj\Release\GEO.pdb
